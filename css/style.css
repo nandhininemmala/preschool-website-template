@@ -435,8 +435,8 @@ h6,
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #FFFFFF;
-    border: 1px solid rgba(255,255,255,0.5);
+    color:#EEEEEE;
+    border: 1px solid rgba(32, 223, 58, 0.5);
     border-radius: 45px;
     transition: .3s;
 }
@@ -482,13 +482,13 @@ h6,
 }
 
 .footer .copyright a {
-    color: #FFFFFF;
+    color: rgb(249, 248, 245);
 }
 
 .footer .footer-menu a {
     margin-right: 15px;
     padding-right: 15px;
-    border-right: 1px solid rgba(255, 255, 255, .1);
+    border-right: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .footer .copyright a:hover,
@@ -510,12 +510,4 @@ h6,
     font-family: 'Lobster Two Italic ', cursive;
     font-weight: 800;
     font-size: 150%;
-}
-.whatsapp{
-    font-size:35px;
-    color:#EEEEEE;
-   
-    border-radius: 50%;
-    padding:8px;
-    box-shadow:#103741;
 }
